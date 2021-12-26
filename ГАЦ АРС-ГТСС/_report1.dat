@@ -1,0 +1,45 @@
+<html> 
+     <head> 
+          <title> 
+               Оперативный план-график 
+          </title>
+		  <style type="text/css">
+			body {
+				padding:0;
+				margin:0;
+			}
+			td.topHeader { 
+				text-align: center;
+				font-size: 9px;
+				font-family: Tahoma;
+			}
+			td {
+				font-size: 11px;
+			}
+			table{
+				border-collapse: collapse;  /* Убираем двойные линии между ячейками */
+			}
+			p.rightTextUp{
+				font-size: 10px;
+			}
+			p{
+				font-family: Tahoma;
+			}
+			p.textDown{
+				font-size:12px;
+			}
+			td.verticalText{
+				font-size: 8px;
+				text-align: center;
+				font-family: Tahoma;
+			}
+  </style>
+     </head> 
+     <body> 
+	 <P align="right" class="rightTextUp">Утверждаю:</P>
+	 <P align="right" class="rightTextUp">ШЧУ-3_______________________</P>
+          <H4 align="center" class="main">Оперативный план
+          </H4> 
+          <table border="1" width="100%" cellpadding="4">			
+     </body> 
+</html>
